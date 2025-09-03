@@ -1,2 +1,11 @@
+# dependencies
 node_modules/
-server/.env
+client/node_modules/
+server/node_modules/
+
+# environment
+.env
+.env.example
+
+# logs
+*.log
